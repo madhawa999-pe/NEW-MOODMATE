@@ -1,2 +1,2 @@
 # NEW-MOODMATE
-NEW mod mate application with connected databse
+NEW mod mate application with connected database
